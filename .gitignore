@@ -1,0 +1,5 @@
+out
+!out/get_results_here.txt
+bin
+!bin/put_dune_ROM_here.txt
+*.exe

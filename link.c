@@ -1,0 +1,6 @@
+#include "include/types.h"
+#include "libc/string.h"
+#include "src/house.c"
+#include "src/tile.c"
+#include "src/tools.c"
+#include "src/unit.c"
